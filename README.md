@@ -18,3 +18,8 @@ Screenshots:
 ![Model Training ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/9de942c7-5ddd-4d2e-999f-6414e2be490c)
 
 ![Test and accuracy screenshot ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/9390abf3-e2ba-4702-aa6b-66e26d749e12)
+
+
+
+opencv.ipynb is my solution file 
+gender_classification_model.h5 is my model 
