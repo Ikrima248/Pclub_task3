@@ -19,6 +19,7 @@ Screenshots:
 
 ![Test and accuracy screenshot ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/9390abf3-e2ba-4702-aa6b-66e26d749e12)
 
+![image](https://github.com/Ikrima248/Pclub_task3/assets/153128448/9495d048-e4bf-4634-a167-96e8148bf5a0)
 
 
 opencv.ipynb is my solution file 
