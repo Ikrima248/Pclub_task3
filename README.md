@@ -12,8 +12,8 @@ Screenshots:
 
 ![bottom 40 cropped ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/b8a076bc-dff4-4e88-a8c2-23eae2acb4a9)
 
-![Model training 2](https://github.com/Ikrima248/Pclub_task3/assets/153128448/53b956![Model Training ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/1ef7d334-2618-46f5-a9a3-4ad84f074dee)
-1d-9d0c-4617-9baa-2f2e67201fcc)
+![Model training 2](https://github.com/Ikrima248/Pclub_task3/assets/153128448/4bb9bc16-c072-43ae-a907-748f13c8bd37)
+
 
 ![Model Training ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/9de942c7-5ddd-4d2e-999f-6414e2be490c)
 
