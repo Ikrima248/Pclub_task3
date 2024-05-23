@@ -9,9 +9,12 @@ UTKface dataset :https://susanqq.github.io/UTKFace/
 
 Screenshots:
 ![All the deleted pictures which were not detected using haarcascade](https://github.com/Ikrima248/Pclub_task3/assets/153128448/5b2cb85a-fad9-46e8-b0a3-fe1b0e16d39d)
+
 ![bottom 40 cropped ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/b8a076bc-dff4-4e88-a8c2-23eae2acb4a9)
+
 ![Model training 2](https://github.com/Ikrima248/Pclub_task3/assets/153128448/53b956![Model Training ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/1ef7d334-2618-46f5-a9a3-4ad84f074dee)
 1d-9d0c-4617-9baa-2f2e67201fcc)
+
 ![Model Training ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/9de942c7-5ddd-4d2e-999f-6414e2be490c)
 
 ![Test and accuracy screenshot ](https://github.com/Ikrima248/Pclub_task3/assets/153128448/9390abf3-e2ba-4702-aa6b-66e26d749e12)
